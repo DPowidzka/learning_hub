@@ -5,9 +5,8 @@ Welcome to **LearningHub**—a central repository where I document my learning j
 ## Table of Contents
 - [About](#about)
 - [Directory Structure](#directory-structure)
-- [Learning Progress](#learning-progress)
 - [How to Use](#how-to-use)
-- [Future Plans](#future-plans)
+- [Learning Progress](#learning-progress)
 
 ---
 
