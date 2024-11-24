@@ -11,10 +11,7 @@ Welcome to **LearningHub**—a central repository where I document my learning j
 ---
 
 ## About
-**LearningHub** is a collection of directories and projects that encompass various aspects of my learning, including:
-- **Challenging problem-solving tasks**
-- **Resource collection for different subjects**
-- **Practical exercises and projects**
+**LearningHub** is a collection of directories and projects that encompass various aspects of my learning, including practical exercises and projects.
 
 This repository serves as both a personal knowledge hub and a portfolio of my growth as a learner and developer.
 
@@ -23,25 +20,11 @@ This repository serves as both a personal knowledge hub and a portfolio of my gr
 ## Directory Structure
 The repository is organized into the following directories:
 
-1. **Challenges**
-   - Contains problem-solving tasks and coding challenges.
-   - Each challenge includes:
-     - Problem statement
-     - My solution
-     - Any notes or learnings from the challenge
-
-2. **Resources**
-   - A curated collection of resources such as:
-     - Articles
-     - Tutorials
-     - eBooks
-     - References for further study
-
-3. **Practice**
+1. **Practice**
    - Code snippets, exercises, and smaller projects.
    - Aimed at building familiarity with different tools, libraries, and programming languages.
 
-4. **Projects**
+2. **Projects**
    - Larger, standalone projects that showcase practical implementations of my skills.
    - Each project includes:
      - A dedicated README with project-specific details
